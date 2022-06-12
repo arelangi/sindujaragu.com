@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/sinduja219",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/sinduja219/",
+      "image": "images/social/instagram.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://in.linkedin.com/in/sinduja-ragu",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}
