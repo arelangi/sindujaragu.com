@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sinduja Ragunathan</title>
-    <link>https://arelangi.github.io/sindujaragu.com/categories/</link>
+    <link>sindujaragu.com/categories/</link>
     <description>Recent content in Categories on Sinduja Ragunathan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://arelangi.github.io/sindujaragu.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="sindujaragu.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
