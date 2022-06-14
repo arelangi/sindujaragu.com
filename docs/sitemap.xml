@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>s/blog/language-perfect/</loc>
+    <loc>/blog/language-perfect/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>s/writing/language-perfect/</loc>
+    <loc>/writing/language-perfect/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>s/</loc>
+    <loc>/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>s/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>s/writing/</loc>
+    <loc>/writing/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>s/blog/sanity-not-statistical/</loc>
+    <loc>/blog/sanity-not-statistical/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>s/writing/sanity-not-statistical/</loc>
+    <loc>/writing/sanity-not-statistical/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>s/blog/destruction-of-words/</loc>
+    <loc>/blog/destruction-of-words/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>s/writing/destruction-of-words/</loc>
+    <loc>/writing/destruction-of-words/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>s/pages/about/</loc>
+    <loc>/pages/about/</loc>
   </url><url>
-    <loc>s/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>s/pages/contact/</loc>
+    <loc>/pages/contact/</loc>
   </url><url>
-    <loc>s/pages/</loc>
+    <loc>/pages/</loc>
   </url><url>
-    <loc>s/pages/portfolio/</loc>
+    <loc>/pages/portfolio/</loc>
   </url><url>
-    <loc>s/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
